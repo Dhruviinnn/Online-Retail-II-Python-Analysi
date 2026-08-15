@@ -1,20 +1,33 @@
 Category,Metric,Value
-Revenue,Total Revenue,9539484.63
-Orders,Total Orders,28816
-Customers,Total Customers,4383
-Products,Total Products,4632
-Customer,Average Order Value,331.05
-Customer,Repeat Customer Rate (%),71.09
-Product,Top Product by Revenue,REGENCY CAKESTAND 3 TIER
-Product,Top Product Revenue,163051.46
-Product,Top Product Revenue Share (%),1.71
+Data Quality,Initial Rows,525461
+Data Quality,Final Clean Rows,504730
+Data Quality,Rows Removed,20731
+Data Quality,Cleaning Reduction (%),3.95
+Data Quality,Duplicate Rows Removed,6865
+Data Quality,Cancelled Rows Identified,10206
+Data Quality,Invalid Quantity Rows,12326
+Data Quality,Invalid Price Rows,3690
+Revenue,Total Revenue,10271762.66
+Revenue,Average Order Value,490.28
+Orders,Total Orders,20951
+Customers,Total Customers,4312
+Customers,Repeat Customer Rate (%),67.09
+Customers,Top Customer Revenue Share (%),3.4
+Products,Total Products,4251
+Product,Top Product by Revenue,Manual
+Product,Top Product Revenue,262589.86
+Product,Top Product Revenue Share (%),2.56
+Product,Top Product by Quantity,WHITE HANGING HEART T-LIGHT HOLDER
 Country,Top Country by Revenue,United Kingdom
-Country,Top Country Revenue Share (%),85.9
+Country,Top Country Revenue Share (%),85.79
 Time,Best Revenue Month,2010-11
-Revenue Concentration,Top 10 Products Revenue Share (%),8.43
-Revenue Concentration,Top 10 Products Revenue,804197.79
-Customer Concentration,Top 10 Customers Revenue Share (%),14.54
-Transaction Statistics,Median Transaction Revenue,9.95
+Time,Best Revenue Month Revenue,1464293.14
+Revenue Concentration,Top 10 Products Revenue Share (%),10.16
+Revenue Concentration,Top 10 Products Revenue,1043851.06
+Customer Concentration,Top 10 Customers Revenue Share (%),14.13
+Transaction Statistics,Median Transaction Revenue,10.2
 Transaction Statistics,Maximum Transaction Revenue,25111.09
-Quantity Statistics,Median Quantity,3.0
+Quantity Statistics,Median Quantity,3
 Quantity Statistics,Maximum Quantity,19152
+Price Statistics,Median Price,2.1
+Price Statistics,Maximum Price,25111.09
