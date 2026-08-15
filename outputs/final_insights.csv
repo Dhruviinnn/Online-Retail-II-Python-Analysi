@@ -1,0 +1,20 @@
+Category,Metric,Value
+Revenue,Total Revenue,9539484.63
+Orders,Total Orders,28816
+Customers,Total Customers,4383
+Products,Total Products,4632
+Customer,Average Order Value,331.05
+Customer,Repeat Customer Rate (%),71.09
+Product,Top Product by Revenue,REGENCY CAKESTAND 3 TIER
+Product,Top Product Revenue,163051.46
+Product,Top Product Revenue Share (%),1.71
+Country,Top Country by Revenue,United Kingdom
+Country,Top Country Revenue Share (%),85.9
+Time,Best Revenue Month,2010-11
+Revenue Concentration,Top 10 Products Revenue Share (%),8.43
+Revenue Concentration,Top 10 Products Revenue,804197.79
+Customer Concentration,Top 10 Customers Revenue Share (%),14.54
+Transaction Statistics,Median Transaction Revenue,9.95
+Transaction Statistics,Maximum Transaction Revenue,25111.09
+Quantity Statistics,Median Quantity,3.0
+Quantity Statistics,Maximum Quantity,19152
